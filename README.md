@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **13710129_INFO_RECEPCION_MERCANCIAS_EN_BODEGA**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/13710129_INFO_RECEPCION_MERCANCIAS_EN_BODEGA/](https://ecored-sena.github.io/13710129_INFO_RECEPCION_MERCANCIAS_EN_BODEGA/)
 
 #
